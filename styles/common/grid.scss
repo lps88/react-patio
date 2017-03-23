@@ -1,0 +1,16 @@
+
+.grid {
+    position: relative;
+    outline: none;
+}
+
+.square {
+    height: 49px;
+    width: 49px;
+    position: absolute;
+    background-color: lightseagreen;
+}
+
+button {
+    margin: 10px;
+}
